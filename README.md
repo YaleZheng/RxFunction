@@ -2,3 +2,8 @@
 
 #RxFunction
 the function definition of RxJava
+
+##Compile
+```gradle
+  compile "io.yale:rxfunction:1.0.0"
+```
